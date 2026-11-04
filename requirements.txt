@@ -1,0 +1,2 @@
+# Dependencies for building the Jupyter Book site (see .github/workflows/gh-pages.yml).
+jupyter-book>=1,<2
